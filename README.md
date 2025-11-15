@@ -6,8 +6,12 @@ It synchronizes with the official web versions to provide the daily word and use
 ## Installation
 
 Requires the Rust toolchain (Cargo).
-```cargo install worldeoxide```
+```CLI
+cargo install worldeoxide
+```
 
 ## Run
 
-```worldeoxide```
+```CLI
+worldeoxide
+```
