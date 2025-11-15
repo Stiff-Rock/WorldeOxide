@@ -7,11 +7,11 @@ It synchronizes with the official web versions to provide the daily word and use
 
 Requires the Rust toolchain (Cargo).
 ```CLI
-cargo install worldeoxide
+cargo install WorldeOxide
 ```
 
 ## Run
 
 ```CLI
-worldeoxide
+WorldeOxide
 ```
